@@ -1,3 +1,0 @@
-dict={1:"py",2:"java"}
-print(dict)
-print(dict[2])
